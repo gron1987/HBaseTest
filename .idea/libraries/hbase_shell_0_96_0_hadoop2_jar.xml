@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hbase-shell-0.96.0-hadoop2.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hbase-shell-0.96.0-hadoop2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

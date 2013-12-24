@@ -1,0 +1,66 @@
+compile
+gen-idea
+gen-dea
+gen-idea
+update
+gen-idea
+update
+gen-idea
+update
+help
+tasks
+package
+update
+package
+tasks
+clean
+update
+package
+update
+package
+update
+gen-idea
+update
+gen-idea
+inspect tree clean
+update
+package
+update
+gen-idea
+assembly
+update
+assembly
+help
+tasks
+compile
+assembly
+tasks
+assembly
+one-jar
+update
+one-jar
+tasks
+help
+reload
+projects
+tasks
+inspect
+tasks inspect
+help tasks
+tasks -V
+tasks -v
+one-jar
+update
+assembly
+one-jar
+update
+assembly
+last *:assembly
+assembly
+учше
+exit
+assembly
+update
+assembly
+update
+assembly
